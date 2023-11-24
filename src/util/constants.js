@@ -1,5 +1,4 @@
 import { EOL } from 'os';
-import deepFreeze from './deepFreeze.js';
 
 const MENU_SAMPLE = Object.freeze({
   일식: [
